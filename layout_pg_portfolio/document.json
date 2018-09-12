@@ -33,7 +33,11 @@
     "version": 105
   },
   "pages": [
-    "Home"
+    "Home",
+    "About",
+    "Projects",
+    "   > Project",
+    "#Ref"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

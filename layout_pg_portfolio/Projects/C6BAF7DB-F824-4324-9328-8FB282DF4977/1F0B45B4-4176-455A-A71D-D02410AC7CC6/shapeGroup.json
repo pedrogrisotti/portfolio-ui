@@ -1,0 +1,149 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1F0B45B4-4176-455A-A71D-D02410AC7CC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF0C2FF0-ED77-4D63-AE9D-C070E0AAB1B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C401C99E-F612-40B3-B9C3-9C84D9A9D1F0",
+    "height": 23.76,
+    "width": 41.98,
+    "x": 50.735,
+    "y": 56.63
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6A224C0D-19C8-4F37-AEC4-DE97CA9DCC55"
+    },
+    {
+      "class": "shapePath",
+      "id": "246F3DB6-8A36-4132-8803-AA63DF459108"
+    },
+    {
+      "class": "shapePath",
+      "id": "430B7BCE-4542-4EE7-88B8-A95EF142C5C2"
+    },
+    {
+      "class": "shapePath",
+      "id": "44052555-720B-496C-B177-229049ED1386"
+    },
+    {
+      "class": "shapePath",
+      "id": "C44BFC58-E299-4136-BAD9-35A129EBE152"
+    },
+    {
+      "class": "shapePath",
+      "id": "C6E4B2AE-FD9B-4EF6-9B01-99C928228B1A"
+    },
+    {
+      "class": "shapePath",
+      "id": "C6AEA6EF-7C62-45A9-A2BE-F142F3B0F6CA"
+    },
+    {
+      "class": "shapePath",
+      "id": "203AD371-A797-466B-B492-748BAED72E7D"
+    },
+    {
+      "class": "shapePath",
+      "id": "7D3092E3-19BE-4EA1-AC86-96BA26B1106F"
+    }
+  ],
+  "name": "PDRO.",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 0.5
+      }
+    ],
+    "do_objectID": "1CCF3428-C64F-4D8C-96E4-F900DF111063",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "796C291F-592E-439E-B3DF-E9A1A32EE718",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "TrumpGothicEast",
+            "size": 30
+          }
+        },
+        "kerning": 1,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "baseWritingDirection": 0,
+          "headerLevel": 1
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

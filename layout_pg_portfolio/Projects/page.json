@@ -1,9 +1,10 @@
 {
   "_class": "page",
   "booleanOperation": 0,
-  "do_objectID": "733171d0-b696-11e8-8858-0f843d2b9978",
+  "do_objectID": "2BB1795B-88DC-46E3-A7D7-6FF5389AAB07",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "E6BD16EB-B723-4B63-88D7-87E5639A096B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,6 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "201B9361-B620-4D81-8DC6-FD3E43E846A3",
     "height": 300,
     "width": 300,
     "x": 0,
@@ -23,6 +25,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -333,
+    "do_objectID": "49B3B0AE-93B2-4219-B84C-1FBBF6AF3411",
     "guides": [
     ]
   },
@@ -36,14 +39,14 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "3AD0093D-F36D-4253-9719-2EC900E6C269"
+      "id": "E7AC08F9-B91A-487D-B080-BCAD02FC94BE"
     },
     {
       "class": "artboard",
-      "id": "3884E8C6-A0AE-468C-AA1A-B66A5F17EBE8"
+      "id": "C6BAF7DB-F824-4324-9328-8FB282DF4977"
     }
   ],
-  "name": "Home",
+  "name": "Projects",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -51,6 +54,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "7B37E924-6C8A-43B8-B75E-BFC09A8FEFAB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -59,6 +63,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": -265,
+    "do_objectID": "C79845EB-A12E-498A-A304-6553086B9F4A",
     "guides": [
     ]
   }

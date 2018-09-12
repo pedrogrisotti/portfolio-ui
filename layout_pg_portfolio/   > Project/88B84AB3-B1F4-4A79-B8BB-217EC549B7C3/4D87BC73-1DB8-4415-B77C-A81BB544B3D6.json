@@ -9,33 +9,41 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.196078431372549,
+            "green": 0.196078431372549,
+            "red": 0.196078431372549
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Avenir-Black",
-              "size": 63.09148264984227
+              "name": "HKGrotesk-Regular",
+              "size": 18
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
-            "_class": "paragraphStyle"
-          }
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "headerLevel": 1,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "PDRO."
+    "string": "Contact"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "289A49CF-9003-413E-9945-BB847C54BCA2",
+  "do_objectID": "4D87BC73-1DB8-4415-B77C-A81BB544B3D6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "ABFBBFD8-3FFF-4252-869A-6D65D82E80CC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -46,12 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 86,
-    "width": 200,
-    "x": 541,
-    "y": 357
+    "do_objectID": "4F5686C5-C1FB-4B8D-96A9-B47903AC113D",
+    "height": 20,
+    "width": 64,
+    "x": 969,
+    "y": 61
   },
-  "glyphBounds": "{{4, 17}, {193, 48}}",
+  "glyphBounds": "{{1, 2}, {63, 14}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -59,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "PDRO.",
+  "name": "Contact",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -67,37 +76,38 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 3.154574132492113,
-      "type": 0
-    },
+    "do_objectID": "1D067AE0-2406-408A-9891-21BFD37D2607",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "D4614537-9CF8-41CE-8F12-B61D74884B8E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.196078431372549,
+          "green": 0.196078431372549,
+          "red": 0.196078431372549
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Avenir-Black",
-            "size": 63.09148264984227
+            "name": "HKGrotesk-Regular",
+            "size": 18
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
-          "_class": "paragraphStyle"
-        }
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "baseWritingDirection": 0,
+          "headerLevel": 1,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
