@@ -49,6 +49,10 @@
       "id": "96A150BC-895E-4DDB-8066-032E9A3C282A"
     },
     {
+      "class": "bitmap",
+      "id": "490E10FB-F9E7-4F07-92D4-71C82E78E7A8"
+    },
+    {
       "class": "text",
       "id": "3FCC08C1-B8FB-445B-AB02-FC624AD9DE75"
     }

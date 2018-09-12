@@ -28,11 +28,16 @@
     ]
   },
   "meta": {
-    "appVersion": "51.3",
-    "build": 57544,
+    "appVersion": "51.2",
+    "build": 57519,
     "version": 105
   },
   "pages": [
     "Home"
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }
