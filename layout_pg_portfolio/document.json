@@ -3,6 +3,13 @@
   "assets": {
     "_class": "assetCollection",
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3137254901960784,
+        "green": 0.3137254901960784,
+        "red": 0.3137254901960784
+      }
     ],
     "gradients": [
     ],
@@ -28,8 +35,8 @@
     ]
   },
   "meta": {
-    "appVersion": "51.2",
-    "build": 57519,
+    "appVersion": "51.3",
+    "build": 57544,
     "version": 105
   },
   "pages": [

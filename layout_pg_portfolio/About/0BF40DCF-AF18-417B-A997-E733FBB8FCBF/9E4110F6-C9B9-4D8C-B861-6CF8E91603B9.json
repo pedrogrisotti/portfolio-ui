@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HKGrotesk-Regular",
-              "size": 58
+              "name": "Avenir-Book",
+              "size": 18
             }
           },
           "kerning": 0,
@@ -26,82 +26,16 @@
             "alignment": 0,
             "baseWritingDirection": 0,
             "headerLevel": 1,
-            "maximumLineHeight": 62,
-            "minimumLineHeight": 62
+            "maximumLineHeight": 26,
+            "minimumLineHeight": 26
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 50,
+        "length": 392,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.196078431372549,
-            "green": 0.196078431372549,
-            "red": 0.196078431372549
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HKGrotesk-Regular",
-              "size": 58
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "baseWritingDirection": 0,
-            "headerLevel": 1,
-            "maximumLineHeight": 62,
-            "minimumLineHeight": 62
-          },
-          "strikethroughStyle": 0,
-          "textStyleVerticalAlignmentKey": 0,
-          "underlineStyle": 1
-        },
-        "length": 8,
-        "location": 50
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.196078431372549,
-            "green": 0.196078431372549,
-            "red": 0.196078431372549
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HKGrotesk-Regular",
-              "size": 58
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "baseWritingDirection": 0,
-            "headerLevel": 1,
-            "maximumLineHeight": 62,
-            "minimumLineHeight": 62
-          },
-          "strikethroughStyle": 0,
-          "textStyleVerticalAlignmentKey": 0,
-          "underlineStyle": 0
-        },
-        "length": 51,
-        "location": 58
       }
     ],
-    "string": "I did my first layout when I was 13’, but (unlike doamaral) I had tried to be a football player until my 17’."
+    "string": "Aos meus 13 anos eu fiz o meu primeiro trabalho como designer, mas (diferentemente do doamaral) eu tentei ser jogador de futebol até meus 17 anos (se quiser saber mais detalhes). Eu sempre achei que seria um jogador de futebol com o hobby de projetar móveis, desenhar camisetas e mexer com web. Como vocês podem ver, não foi isso que aconteceu, o jogo inverteu e hoje futebol virou meu lazer."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -121,12 +55,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "24FE1839-87C3-49C3-B244-5FB02AE51E16",
-    "height": 310,
-    "width": 624,
-    "x": 557,
-    "y": 1126
+    "height": 208,
+    "width": 437,
+    "x": 100,
+    "y": 1186
   },
-  "glyphBounds": "{{1, 7}, {583, 302}}",
+  "glyphBounds": "{{0, 5}, {432, 201}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -134,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "I did my first layou",
+  "name": "Aos meus 13 anos eu",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -160,8 +94,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HKGrotesk-Regular",
-            "size": 58
+            "name": "Avenir-Book",
+            "size": 18
           }
         },
         "kerning": 0,
@@ -170,8 +104,8 @@
           "alignment": 0,
           "baseWritingDirection": 0,
           "headerLevel": 1,
-          "maximumLineHeight": 62,
-          "minimumLineHeight": 62
+          "maximumLineHeight": 26,
+          "minimumLineHeight": 26
         },
         "textStyleVerticalAlignmentKey": 0
       },

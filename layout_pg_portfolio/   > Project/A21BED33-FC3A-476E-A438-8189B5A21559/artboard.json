@@ -1,0 +1,199 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "booleanOperation": -1,
+  "do_objectID": "A21BED33-FC3A-476E-A438-8189B5A21559",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 7000,
+    "width": 1280,
+    "x": 1481,
+    "y": -2970
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "A802EE7E-CC2F-4822-990C-914A15C28CAC"
+    },
+    {
+      "class": "text",
+      "id": "14D27CBB-7964-412B-8D9E-416E0084BEAF"
+    },
+    {
+      "class": "text",
+      "id": "70BA30A1-4065-41D2-B10B-4F3F18DBFAE5"
+    },
+    {
+      "class": "text",
+      "id": "C23BDAA5-0A56-43C6-AEF1-4173D18F11D8"
+    },
+    {
+      "class": "text",
+      "id": "56A78867-670A-4DAB-97AF-11235D2A3EA8"
+    },
+    {
+      "class": "text",
+      "id": "8427E8B2-9768-43A7-8E7B-2DF821837AB8"
+    },
+    {
+      "class": "text",
+      "id": "99A87725-1C40-426F-A07B-FA3EF1B76421"
+    },
+    {
+      "class": "text",
+      "id": "F26A389A-F89B-4421-9A2E-ADC3194DA2EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DA721115-583D-4024-B510-50C3092B97A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1D1D7D5-0D60-425D-B76B-C59CB5D06ACE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED1B9302-E6B2-4D7A-8B4E-8B5C3BA084D5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E7CDAA63-1A55-4915-90AB-87E7D6CF7B76"
+    },
+    {
+      "class": "text",
+      "id": "2C08D35C-9522-40E1-966A-45285E6052D0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EBC950E3-9069-4433-9A2B-87F433A38412"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0016F518-294D-474D-BB0B-F452F797412A"
+    },
+    {
+      "class": "text",
+      "id": "F8B22B68-256A-42B6-842C-3C8D0D46026C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E40E97D-E486-4077-9BA8-1979707A905F"
+    },
+    {
+      "class": "text",
+      "id": "379924FC-3817-4493-8154-E7FBBB0BC36F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "575265B3-A00A-4084-B564-004437F4683B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99D041B2-5FF1-4630-AEA6-B986466FF800"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7CDADFBC-2AA0-4E0D-A55C-BF4BB2A4DC4A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EDC3230A-8F83-451B-ACBC-184D8A85A3D2"
+    },
+    {
+      "class": "text",
+      "id": "24E8F553-F70A-4FFC-94D9-4921673A2CAD"
+    },
+    {
+      "class": "text",
+      "id": "8D382902-C507-4C58-9C99-ADE062A6937C"
+    },
+    {
+      "class": "text",
+      "id": "C07DEEC9-4438-43B9-9821-CF43AE173069"
+    },
+    {
+      "class": "text",
+      "id": "F53136FA-ADFA-4B40-8CA5-811C0B78B000"
+    },
+    {
+      "class": "text",
+      "id": "F1D32A5E-FBE7-46C9-AE00-2BEA34B9F1C9"
+    },
+    {
+      "class": "text",
+      "id": "98363F3E-A8E8-48A3-B87B-8D9037CFBF55"
+    },
+    {
+      "class": "text",
+      "id": "A4BDBD8A-8EAC-4F36-B35E-184DD23CA2B6"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 12.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 140,
+    "guttersOutside": false,
+    "horizontalOffset": 100,
+    "isEnabled": false,
+    "numberOfColumns": 8,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1080
+  },
+  "name": "Artboard Copy 2",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
