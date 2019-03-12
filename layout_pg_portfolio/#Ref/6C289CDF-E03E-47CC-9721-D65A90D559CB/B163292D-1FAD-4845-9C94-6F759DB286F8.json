@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HKGrotesk-Regular",
-              "size": 58
+              "name": "Avenir-Roman",
+              "size": 110
             }
           },
           "kerning": 0,
@@ -26,16 +26,16 @@
             "alignment": 0,
             "baseWritingDirection": 0,
             "headerLevel": 1,
-            "maximumLineHeight": 62,
-            "minimumLineHeight": 62
+            "maximumLineHeight": 110,
+            "minimumLineHeight": 110
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 110,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "I’m a product designer and maker living in Florianópolis. working at Youtube Music, making your life more fun."
+    "string": "All refs"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,13 +56,17 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2E28BB45-E4EB-40AA-BE70-DD152AE350C4",
-    "height": 248,
-    "width": 762,
-    "x": 125,
-    "y": 240
+    "height": 110,
+    "width": 343,
+    "x": -56.5,
+    "y": 345.5
   },
+<<<<<<< HEAD
   "glyphBounds": "{{1, 7}, {734, 241}}",
   "hasClippingMask": false,
+=======
+  "glyphBounds": "{{0, 5}, {339, 87}}",
+>>>>>>> 7cdc7fc8bfc528f1648fcd2480c8ae3ce5b98709
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -70,11 +74,11 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "I’m a product design",
+  "name": "All refs",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": 90,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -96,8 +100,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HKGrotesk-Regular",
-            "size": 58
+            "name": "Avenir-Roman",
+            "size": 110
           }
         },
         "kerning": 0,
@@ -106,8 +110,8 @@
           "alignment": 0,
           "baseWritingDirection": 0,
           "headerLevel": 1,
-          "maximumLineHeight": 62,
-          "minimumLineHeight": 62
+          "maximumLineHeight": 110,
+          "minimumLineHeight": 110
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -115,5 +119,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

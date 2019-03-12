@@ -31,8 +31,12 @@
     "y": 32
   },
   "hasBackgroundColor": true,
+<<<<<<< HEAD
   "hasClickThrough": false,
   "hasClippingMask": false,
+=======
+  "hasClickThrough": true,
+>>>>>>> 7cdc7fc8bfc528f1648fcd2480c8ae3ce5b98709
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -161,20 +165,31 @@
     {
       "class": "shapeGroup",
       "id": "1F8D5902-BD85-4F3C-905C-4D2041DF4A7D"
+    },
+    {
+      "class": "text",
+      "id": "B177F405-4BF4-4001-804B-3AC9CA8F5A14"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F2D19FF3-D5A0-4A3D-925E-E8C780916F95"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "941D6D1B-A702-4A88-B791-EEB2A07CB1E6"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 12.5,
-    "do_objectID": "38A1D988-AAA4-4271-A151-9F334F53FA19",
+    "columnWidth": 126.25,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 140,
+    "gutterWidth": 10,
     "guttersOutside": false,
     "horizontalOffset": 100,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 8,
     "rowHeightMultiplication": 5,
     "totalWidth": 1080

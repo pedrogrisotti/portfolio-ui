@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "ACF1438D-BCC1-41D8-B702-6D8341B8774E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14F941C4-2B49-453E-B8A3-19A0891C185F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FCBB0C3A-87B5-441B-B4AC-07E873CA9434",
+    "height": 590,
+    "width": 470,
+    "x": 99,
+    "y": 566
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E514B5EC-4720-4C84-AB4D-3F327EC60F27"
+    },
+    {
+      "class": "bitmap",
+      "id": "47E03FBA-0BDE-45AA-9BB9-67E681382B57"
+    },
+    {
+      "class": "bitmap",
+      "id": "4C040006-8E73-41FC-B485-833B7C8BB49A"
+    }
+  ],
+  "name": "Santoni-Edited-by-Marco-Zanini-Ingar-Krauss-02",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D036DF3-A062-4655-B776-4896B4B44352",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

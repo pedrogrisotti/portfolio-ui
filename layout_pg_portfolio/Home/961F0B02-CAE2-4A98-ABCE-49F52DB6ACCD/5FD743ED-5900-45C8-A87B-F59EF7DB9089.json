@@ -1,0 +1,123 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4705882352941176,
+            "green": 0.4705882352941176,
+            "red": 0.4705882352941176
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Avenir-Roman",
+              "size": 18
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "headerLevel": 1,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 7,
+        "location": 0
+      }
+    ],
+    "string": "Contact"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+<<<<<<< HEAD:layout_pg_portfolio/#Ref/6C289CDF-E03E-47CC-9721-D65A90D559CB/847D0458-92B1-42E1-B92B-85527B186F52.json
+  "clippingMaskMode": 0,
+  "do_objectID": "847D0458-92B1-42E1-B92B-85527B186F52",
+=======
+  "do_objectID": "5FD743ED-5900-45C8-A87B-F59EF7DB9089",
+>>>>>>> 7cdc7fc8bfc528f1648fcd2480c8ae3ce5b98709:layout_pg_portfolio/Home/961F0B02-CAE2-4A98-ABCE-49F52DB6ACCD/5FD743ED-5900-45C8-A87B-F59EF7DB9089.json
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 65,
+    "x": 1013,
+    "y": 62
+  },
+<<<<<<< HEAD:layout_pg_portfolio/#Ref/6C289CDF-E03E-47CC-9721-D65A90D559CB/847D0458-92B1-42E1-B92B-85527B186F52.json
+  "glyphBounds": "{{1, 2}, {62, 14}}",
+  "hasClippingMask": false,
+=======
+  "glyphBounds": "{{0, 2}, {64, 15}}",
+>>>>>>> 7cdc7fc8bfc528f1648fcd2480c8ae3ce5b98709:layout_pg_portfolio/Home/961F0B02-CAE2-4A98-ABCE-49F52DB6ACCD/5FD743ED-5900-45C8-A87B-F59EF7DB9089.json
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Contact",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4705882352941176,
+          "green": 0.4705882352941176,
+          "red": 0.4705882352941176
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Avenir-Roman",
+            "size": 18
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "baseWritingDirection": 0,
+          "headerLevel": 1,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0
+}

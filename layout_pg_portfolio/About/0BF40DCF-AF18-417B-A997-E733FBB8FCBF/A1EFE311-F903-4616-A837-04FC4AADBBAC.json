@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HKGrotesk-Regular",
+              "name": "Avenir-Roman",
               "size": 58
             }
           },
@@ -61,8 +61,12 @@
     "x": 100,
     "y": 240
   },
+<<<<<<< HEAD
   "glyphBounds": "{{0, 7}, {898, 241}}",
   "hasClippingMask": false,
+=======
+  "glyphBounds": "{{0, 4}, {923, 245}}",
+>>>>>>> 7cdc7fc8bfc528f1648fcd2480c8ae3ce5b98709
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -96,7 +100,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HKGrotesk-Regular",
+            "name": "Avenir-Roman",
             "size": 58
           }
         },

@@ -38,10 +38,11 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "3AD0093D-F36D-4253-9719-2EC900E6C269"
+      "id": "3884E8C6-A0AE-468C-AA1A-B66A5F17EBE8"
     },
     {
       "class": "artboard",
+<<<<<<< HEAD
       "id": "3884E8C6-A0AE-468C-AA1A-B66A5F17EBE8"
     },
     {
@@ -87,6 +88,81 @@
     {
       "class": "text",
       "id": "63178F1E-B186-4E1B-B755-4B2931669FFF"
+=======
+      "id": "961F0B02-CAE2-4A98-ABCE-49F52DB6ACCD"
+    },
+    {
+      "class": "artboard",
+      "id": "64D42205-90C9-44FC-B1E5-C33315A5AA0D"
+    },
+    {
+      "class": "artboard",
+      "id": "FAFFE9E8-9AB4-41AC-988C-105ED739ED59"
+    },
+    {
+      "class": "artboard",
+      "id": "263F9EBB-A398-4339-991C-96CE3DFE5CCB"
+    },
+    {
+      "class": "artboard",
+      "id": "B1442C71-CC7E-4E06-9D82-FACA368C51C5"
+    },
+    {
+      "class": "artboard",
+      "id": "9F753E8E-EE0A-4D2F-80A1-77ED29D9689A"
+    },
+    {
+      "class": "artboard",
+      "id": "277689C6-C72D-4924-AD55-125420143E18"
+    },
+    {
+      "class": "artboard",
+      "id": "1A799F1A-4707-45A4-977B-FED67E32884B"
+    },
+    {
+      "class": "artboard",
+      "id": "2D7CFC47-52AB-4008-967C-920F529165FC"
+    },
+    {
+      "class": "artboard",
+      "id": "373E820D-65ED-4C54-89F7-142B37A8D278"
+    },
+    {
+      "class": "group",
+      "id": "DCE93E21-C0FE-4C40-A3AC-0D48FDC62267"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CD8BABEC-E0C9-4D0A-B8A4-DF3C8D141385"
+    },
+    {
+      "class": "text",
+      "id": "38565BBB-052E-4548-96E8-898F7C3561BE"
+    },
+    {
+      "class": "text",
+      "id": "F66EC5F1-032C-477C-A30D-C721F8CF56C2"
+    },
+    {
+      "class": "text",
+      "id": "97B331AC-8A83-4DE6-89AE-3D7018CB816A"
+    },
+    {
+      "class": "text",
+      "id": "5FA97B18-F2AD-4E74-871C-F74F899E0114"
+    },
+    {
+      "class": "text",
+      "id": "B8598194-F890-4AF9-8AED-794BBDBC9664"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "390B26DF-DF5C-4429-8EFD-F14D63AB73F8"
+    },
+    {
+      "class": "text",
+      "id": "73039DC9-F929-47B1-A708-79CBECDA9519"
+>>>>>>> 7cdc7fc8bfc528f1648fcd2480c8ae3ce5b98709
     }
   ],
   "name": "Home",

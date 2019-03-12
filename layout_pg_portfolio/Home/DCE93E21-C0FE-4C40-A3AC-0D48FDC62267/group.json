@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+<<<<<<< HEAD:layout_pg_portfolio/#Ref/6C289CDF-E03E-47CC-9721-D65A90D559CB/F8D4335A-0CC4-4F68-A31B-B4B050FB2144/group.json
+  "clippingMaskMode": 0,
+  "do_objectID": "F8D4335A-0CC4-4F68-A31B-B4B050FB2144",
+=======
+  "do_objectID": "DCE93E21-C0FE-4C40-A3AC-0D48FDC62267",
+>>>>>>> 7cdc7fc8bfc528f1648fcd2480c8ae3ce5b98709:layout_pg_portfolio/Home/DCE93E21-C0FE-4C40-A3AC-0D48FDC62267/group.json
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 18,
+    "x": 5450,
+    "y": -2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+<<<<<<< HEAD:layout_pg_portfolio/#Ref/6C289CDF-E03E-47CC-9721-D65A90D559CB/F8D4335A-0CC4-4F68-A31B-B4B050FB2144/group.json
+      "class": "rectangle",
+      "id": "5B7905FD-C523-43D0-A5F3-25EA27C658AB"
+=======
+      "class": "shapeGroup",
+      "id": "210AA05F-A299-4881-A317-6AAD0ED956F3"
+>>>>>>> 7cdc7fc8bfc528f1648fcd2480c8ae3ce5b98709:layout_pg_portfolio/Home/DCE93E21-C0FE-4C40-A3AC-0D48FDC62267/group.json
+    },
+    {
+      "class": "bitmap",
+      "id": "3AD41807-92E8-4BDD-ACD5-C6FF8A291DE2"
+    }
+  ],
+  "name": "Screen Shot 2018-09-11 at 14.10.58",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.428571428571429,
+      "saturation": 1,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 2,
+      "opacity": 1
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -6,6 +6,7 @@
       {
         "_class": "color",
         "alpha": 1,
+<<<<<<< HEAD
         "blue": 0.9607843137254902,
         "green": 0.9607843137254902,
         "red": 0.9607843137254902
@@ -27,6 +28,8 @@
       {
         "_class": "color",
         "alpha": 1,
+=======
+>>>>>>> 7cdc7fc8bfc528f1648fcd2480c8ae3ce5b98709
         "blue": 0.3137254901960784,
         "green": 0.3137254901960784,
         "red": 0.3137254901960784
@@ -56,9 +59,15 @@
     ]
   },
   "meta": {
+<<<<<<< HEAD
     "appVersion": "52.6",
     "build": 67491,
     "version": 112
+=======
+    "appVersion": "51.3",
+    "build": 57544,
+    "version": 105
+>>>>>>> 7cdc7fc8bfc528f1648fcd2480c8ae3ce5b98709
   },
   "pages": [
     "Home",
