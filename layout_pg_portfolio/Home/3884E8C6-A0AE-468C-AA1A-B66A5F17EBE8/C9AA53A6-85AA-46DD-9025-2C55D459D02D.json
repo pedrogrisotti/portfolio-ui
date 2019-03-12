@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HKGrotesk-Regular",
+              "name": "HKGrotesk-Light",
               "size": 58
             }
           },
@@ -39,6 +39,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "C9AA53A6-85AA-46DD-9025-2C55D459D02D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -60,7 +61,8 @@
     "x": 125,
     "y": 240
   },
-  "glyphBounds": "{{1, 7}, {734, 241}}",
+  "glyphBounds": "{{1, 7}, {731, 240}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -94,7 +96,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HKGrotesk-Regular",
+            "name": "HKGrotesk-Light",
             "size": 58
           }
         },

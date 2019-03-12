@@ -3,6 +3,34 @@
   "assets": {
     "_class": "assetCollection",
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9607843137254902,
+        "green": 0.9607843137254902,
+        "red": 0.9607843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7843137254901961,
+        "green": 0.7843137254901961,
+        "red": 0.7843137254901961
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5490196078431373,
+        "green": 0.5490196078431373,
+        "red": 0.5490196078431373
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3137254901960784,
+        "green": 0.3137254901960784,
+        "red": 0.3137254901960784
+      }
     ],
     "gradients": [
     ],
@@ -28,9 +56,9 @@
     ]
   },
   "meta": {
-    "appVersion": "51.2",
-    "build": 57519,
-    "version": 105
+    "appVersion": "52.6",
+    "build": 67491,
+    "version": 112
   },
   "pages": [
     "Home",

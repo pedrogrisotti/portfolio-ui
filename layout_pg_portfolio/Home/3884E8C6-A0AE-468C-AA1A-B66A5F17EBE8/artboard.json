@@ -9,6 +9,7 @@
     "red": 0.9686274509803922
   },
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "3884E8C6-A0AE-468C-AA1A-B66A5F17EBE8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -31,6 +32,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -89,19 +91,19 @@
       "id": "32057112-5D9B-4A24-8809-48F7F375EB26"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "A372A59B-3E2F-4B06-A81D-6EE0865C7112"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "1C97E06A-ABC5-4B87-A2DF-D3856FEDE2BB"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "58FE2A81-ED01-48B7-91EA-B9F5F42740E8"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "A849CDF2-AEBB-408B-94FA-5541F7D19296"
     },
     {
@@ -117,19 +119,19 @@
       "id": "5A21474E-3C74-40B3-B3F8-DCCC78358348"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "B9D6904D-A39A-4FD1-843C-3C114980FCBB"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "CB8288F0-8C5C-4ED0-8B8F-9D6C439C3D93"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "14DE0240-98CF-448C-812D-D0593AF91BD1"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "CF111EAA-B73D-47EF-95C3-880669E3F6FA"
     },
     {
@@ -149,7 +151,7 @@
       "id": "F48F5D2E-2AE8-4B2F-A3B1-2D19E5C0AA74"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "E4F72338-F22D-45BA-A3CB-F33E3BEFEB20"
     },
     {

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4BC53704-BF7E-47F3-819A-615559901015",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED242942-3F6F-4AA6-94F2-C41DA5BDCC13",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A5CF87C-53D7-4DE5-80F6-C01220DBFE3E",
+    "height": 640,
+    "width": 776,
+    "x": 404,
+    "y": 410
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6CAC215B-E53A-4054-99B7-08FBBC84977B"
+    },
+    {
+      "class": "bitmap",
+      "id": "8747D4A8-A7A2-4CC2-9E48-FF01EA31A435"
+    }
+  ],
+  "name": "Kuldej",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB585A87-5731-4E87-8C55-FC0EADC328C2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
